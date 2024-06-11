@@ -17,7 +17,7 @@ https://github.com/gredajustyna/Dermtektyw/assets/83274413/f796f822-b8ba-44f8-ae
 ## How to run
 The application was developed using MacOS and iPhone and the instructions will also be guide to run on these platforms. 
 - Clone the entire repository
-- Move the `model` folder inside `/opt/homebrew/var/www` folder
+- Move and unpack the `model` folder inside `/opt/homebrew/var/www` folder
 - Make sure the Apache is installed on your device
 - Edit the `/opt/homebrew/etc/httpd/httpd.conf` file and add the following code:
   ```
