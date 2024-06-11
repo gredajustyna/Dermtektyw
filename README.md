@@ -5,7 +5,7 @@ With some simple UI, the power of the application lays behind the code - using a
 - Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions
 - Seborrheic Keratoses and other Benign Tumors
 
-It was created using React Native, Typescript and Expo. The Tensorflow model shows an accuracy of around 55%. The application is now available only in Polish as it was created for the 61th. Conference of the AGH University of Science and Technology Student Research Groups so the repository also contains a presentation given there.
+It was created using React Native with Expo. The Tensorflow model shows an accuracy of around 55%. The application is now available only in Polish as it was created for the 61th. Conference of the AGH University of Science and Technology Student Research Groups so the repository also contains a presentation given there.
 
 ## Some UI screenshots:
 ![image](https://github.com/gredajustyna/Dermtektyw/assets/83274413/e58e5fd5-baeb-4260-9555-15386e9c104c)
